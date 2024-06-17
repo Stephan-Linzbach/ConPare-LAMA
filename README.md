@@ -7,7 +7,7 @@ This is the official repository of the paper 'Dissecting Paraphrases: The Impact
 Here we compare knowledge retrieval performance for prompts that follow specific syntactical features.
 Per knowledge triple, we consider seven syntax variations.
 
-![Syntax Variations](images/prompt_structure.png)
+![Syntax Variations](prompt_structure.png)
 
 In the directory 'data' you can find the datasets for the corpora 'TREx', 'GoogleRE', and 'CNET' (ConceptNet).
 
@@ -15,7 +15,7 @@ In the directory 'data' you can find the datasets for the corpora 'TREx', 'Googl
 
 This repository contains data to query knowledge triples with 60 different relations.
 
-![Syntax Variations](images/meta_templating.png)
+![Syntax Variations](meta_templating.png)
 
 You can instantiate for each knowledge triple seven meta-template configurations, that encode varying amounts of information while using different syntax. \n
 In total, you can instantiate approx. 34 mio prompts (TREX 7 mio, GoogleRE 700k, ConceptNet 26 mio).
