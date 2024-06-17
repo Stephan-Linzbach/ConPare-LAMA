@@ -1,7 +1,5 @@
 # ConPare-LAMA
 
-# Evaluating the Impact of Prompt Syntax on Knowledge Retrieval from Large Language Models
-
 ## Overview
 This is the official repository of the paper 'Dissecting Paraphrases: The Impact of Prompt Syntax and supplementary Information on Knowledge Retrieval from Pretrained Language Models'
 Here we compare knowledge retrieval performance for prompts that follow specific syntactical features.
